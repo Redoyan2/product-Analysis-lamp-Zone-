@@ -1,0 +1,17 @@
+.home-main{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin: 50px;
+}
+.home-main img{
+    border-radius: 20px;
+}
+.home-details button{
+    color: white;
+    background-color: gray;
+    padding: 5px 10px;
+    margin: 20px auto;
+    border: solid 2px orange;
+    border-radius: 7px;
+
+}
