@@ -10,13 +10,11 @@ const Home = () => {
             <div className='home-main'>
                 <div className='home-details text-orange-500  text-left ml-9 m-9'>
                     <h1 className='text-6xl m-8'><span className='text-gray-600 '>PREMIUM LAMP</span> ZONE</h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur,
-                        assumenda. Quos, veniam facere voluptatem quasi assumenda neque
-                        corrupti amet voluptate beatae recusandae suscipit quam commodi
-                        excepturi libero dolorum autem voluptates minima ullam aut ea
-                        fugiat laborum obcaecati. Cupiditate expedita perspiciatis
-                        tempora eligendi modi suscipit facilis blanditiis,
-                        ipsa nemo quo. Vel!</p>
+                    <p>Web analytics is the process of analyzing the behavior of visitors to a website. This involves
+                        tracking, reviewing and reporting data to measure web activity,
+                        including the use of a website and its components, such as webpages, images and videos.
+                        Analytics is the process of analyzing the behavior of visitors to a website. This involves tracking, reviewing and reporting data to measure web activity, including the use of a website and its 
+                        components, such as webpages, images and videos.</p>
                     <button>Find Your Lamps</button>
                 </div>
                 <div className='home-img'>

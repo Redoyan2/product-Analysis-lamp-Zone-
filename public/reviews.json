@@ -2,44 +2,44 @@
 
     {
         "id": 1,
-        "name": "Habiba",
+        "name": "Naimur",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "4.1/5",
         "img": "https://i.ibb.co/Qjdyrvp/GGGX8936-Copy.jpg"
     },
     {
         "id": 2,
-        "name": "Habiba",
+        "name": "Prithy",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "3/5",
         "img": " https://i.ibb.co/DrJrPmq/IARB5544.jpg"
     },
     {
         "id": 3,
-        "name": "Habiba",
+        "name": "Redoyan",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "3.5/5",
         "img": "https://i.ibb.co/sFy7LzL/IMG-0065.jpg"
     },
     {
         "id": 4,
-        "name": "Habiba",
+        "name": "Lavlu",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "4.3/5",
         "img": "https://i.ibb.co/jwnXBYJ/IMG-2827.jpg"
     },
     {
         "id": 5,
-        "name": "Habiba",
+        "name": "Bushra",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "4.5/5",
         "img": "https://i.ibb.co/d0bKsLH/IMG-1510.jpg"
     },
     {
         "id": 6,
-        "name": "Habiba",
+        "name": "Amena",
         "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
+        "rating": "3/5",
         "img": "https://i.ibb.co/RChCvNY/IMG-1703.png"
     }
 
