@@ -1,33 +1,9 @@
-Markdown Cheatsheet<a name="TOP"></a>
+Find Your Best Lamp: <a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# My Website Live Link:  #
 
-    Markup :  # Heading 1 #
+   https://github.com/programming-hero-web-course-4/product-analysis-website-Redoyan2
 
-    -OR-
-
-    Markup :  ============= (below H1 text)
-
-## Heading 2 ##
-
-    Markup :  ## Heading 2 ##
-
-    -OR-
-
-    Markup: --------------- (below H2 text)
-
-### Heading 3 ###
-
-    Markup :  ### Heading 3 ###
-
-#### Heading 4 ####
-
-    Markup :  #### Heading 4 ####
-
-
-Common text
-
-    Markup :  Common text
-
+   
