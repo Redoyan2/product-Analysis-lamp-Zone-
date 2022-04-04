@@ -1,5 +1,5 @@
 import './Dashboard.css';
-import { Area, Bar, BarChart, CartesianGrid, ComposedChart, Legend, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis, } from 'recharts';
+import { Area, Bar, BarChart, CartesianGrid, ComposedChart, Line, LineChart, Tooltip, XAxis, YAxis, } from 'recharts';
 import data from './data.json';
 
 const Dashboard = () => {

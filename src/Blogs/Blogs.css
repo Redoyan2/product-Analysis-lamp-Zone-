@@ -1,0 +1,24 @@
+
+
+.content-container{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    margin: 50px;
+}
+.content-box{
+    margin: 20px;
+    padding: 20px;
+    border:1px solid orange ;
+    border-radius: 10px;
+
+}
+.content-box h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: crimson;
+}
+.content-box p {
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+}
