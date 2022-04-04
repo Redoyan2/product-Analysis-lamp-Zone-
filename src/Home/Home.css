@@ -15,3 +15,13 @@
     border-radius: 7px;
 
 }
+
+.customer-reviews h2{
+        font-size: 40px;
+        color: indigo;
+        font:bold;
+}
+.customer-reviews h2:hover{
+    color: orange;
+    font: 800;
+}
