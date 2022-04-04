@@ -25,3 +25,15 @@
     color: orange;
     font: 800;
 }
+
+
+
+.link-btn{
+    background-color: gray;
+    border: 1px solid orange;
+    padding: 5px 10px;
+    border-radius: 7px;
+}
+.all-btn{
+    margin-top: 0px;
+}

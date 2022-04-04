@@ -2,13 +2,13 @@
 
 .review-body{
     
-    border: 1px solid black;
+    
     border-radius: 15px;
     padding: 20px;
     margin: 30px;
 }
 
 .review-body img{
-    width: 50px;
+    width: 60px;
     border-radius: 50px;
 }

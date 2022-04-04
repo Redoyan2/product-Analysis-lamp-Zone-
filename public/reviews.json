@@ -26,7 +26,7 @@
         "name": "Habiba",
         "review": "This is a very good products. As this is very important, and also cheap!!",
         "rating": "4/5",
-        "img": "https://i.ibb.co/d0bKsLH/IMG-1510.jpg"
+        "img": "https://i.ibb.co/jwnXBYJ/IMG-2827.jpg"
     },
     {
         "id": 5,
@@ -41,19 +41,7 @@
         "review": "This is a very good products. As this is very important, and also cheap!!",
         "rating": "4/5",
         "img": "https://i.ibb.co/RChCvNY/IMG-1703.png"
-    },
-    {
-        "id": 7,
-        "name": "Habiba",
-        "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
-        "img": "https://i.ibb.co/tK0SnGf/IMG-2478.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Habiba",
-        "review": "This is a very good products. As this is very important, and also cheap!!",
-        "rating": "4/5",
-        "img": "https://i.ibb.co/jwnXBYJ/IMG-2827.jpg"
     }
+
+  
 ]

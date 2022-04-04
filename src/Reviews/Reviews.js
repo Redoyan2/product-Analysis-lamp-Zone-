@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Customers from '../Customers/Customers';
 import Person from '../Person/Person';
 import './Reviews.css';
 
@@ -26,10 +27,20 @@ const Reviews = () => {
 
                     </Person>)
                 }
+                {
+                    persons.slice(0,3).map(person=><Customers
+                    
+                        key={persons.id}
+                        person={person}
+                    >
+
+                    </Customers>)
+                }
+
 
             </div>
         </div>
     );
 };
 
-export default Reviews; <h1>THis is Reviews </h1>
+export default Reviews; 

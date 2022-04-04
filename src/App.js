@@ -7,6 +7,7 @@ import Reviews from './Reviews/Reviews';
 import Dashboard from './Dashboard/Dashboard';
 import Blogs from './Blogs/Blogs';
 import About from './About/About';
+import Nopage from './Nopage/Nopage';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/about' element={<About></About>}></Route>
+        <Route path='/*' element={<Nopage></Nopage>}></Route>
       </Routes>
     </div>
   );
